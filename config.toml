@@ -1,0 +1,22 @@
+baseURL = "https://www.depoharga.com/"
+languageCode = "en-us"
+title = "DepoHarga.COM - Portal Informasi Harga Komoditas"
+disableKinds = "RSS"
+paginate = 10
+
+[related]
+threshold = 80.0
+includeNewer = false
+toLower = false
+
+  [[related.indices]]
+  name = "tag"
+  weight = 100.0
+
+  [[related.indices]]
+  name = "date"
+  weight = 10.0
+
+[taxonomies]
+  category = "category"
+  tag = "tag"

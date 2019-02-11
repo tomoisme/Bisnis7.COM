@@ -1,0 +1,21 @@
+---
+title: 'Peluang Usaha Kerajinan Tangan'
+date: 2017-08-06T12:09:34+07:00
+draft: false
+tag: [Info, umkm, usaha kecil, usaha modal kecil]
+---
+## Peluang Usaha Kerajinan Tangan
+----
+**Bisnis7.com - Peluang usaha kerajinan tangan** | Memiliki keahlian dalam menciptakan sebuah kerajinan tangan (hand made) merupakan hal yang baik. Seseorang menggunakan keahlian tersebut untuk menjadi modal awal dalam menjalankan peluang bisnis kerajinan tangan yang menguntungkan. Bermodalkan barang-barang bekas seperti kardus dan kemampuan khusus, kerajinan tangan bisa menjadi barang cantik dengan harga jual yang cukup tinggi. ![peluang usaha kerajinan tangan](https://www.bisnis7.com/wp-content/uploads/2017/08/peluang-usaha-kerajinan-tangan-membuahkan-hasil-yang-manis.jpg) Barang bekas yang masih bisa didaur ulang memang memiliki manfaat yang sangat banyak, dan ini yang membuat para pengrajin tangan menciptakan berbagai macam barang yang bisa dipergunakan kembali. Salah satu produk kerajinan tangan yang sering kita jumpai adalah vas (pot) bunga, asbak, celengan, bunga kertas, kantong tas, dll. Hasil produk kerajinan tangan tentunya tidak kalah bagusnya dengan produk buatan pabrik umumnya, yang menjadikan kerajinan tangan istimewa ialah dari segi kreatifitasnya.
+
+### Bahan dan Alat yang diperlukan dalam kerajinan Tangan
+
+Para pengrajin tangan biasanya mengumpulkan barang-barang bekas untuk dimanfaatkan sebagai bahan dasar pembuatan produk kerajinan tangan. Barang-barang bekas yang sering digunakan antara lain yaitu ; kardus, sedotan, botol minuman, kantong kresek, kaleng, bungkus permen, dll. Selain menggunakan barang bekas, para pengrajin biasanya menggunakan sejumlah alat dan bahan-bahan pembantu seperti; lem, pengaris, tali, cat warna, dll. Setiap produk kerajinan tangan yang sudah jadi akan di kirim ke pasar untuk di perjual-belikan. Keberadaan para penjual kerajinan tangan dipasaran jumlahnya masih bisa terhitung jari, namun untuk produk kerajinan tangan paling banyak untuk ditemui yaitu di sekitar pinggir jalan, toko, atau lokasi yang berdekatan dengan tempat rekreasi.
+
+### Modal dan omset pengrajin tangan
+
+Bicara soal modal, para pengrajin tangan tidak perlu menghabiskan terlalu banyak modal awal. Karena yang digunakan hanya beberapa alat beserta bahan sederhana, selebihnya mereka menggunakan barang-barang bekas untuk disulap menjadi barang kerjinan tangan. Sedangkan untuk soal omset, para pengrajin tangan tidak mematok seberapa besar omset yang harus didapatkan. Namun jika disimpulkan mengenai total omset yang bisa diraih, itu semua tergantung dari total produk kerajinan tangan yang berhasil diproduksi. Mereka sadar betul bahwa barang kerajinan tangan yang diproduksinya masih rentan terhadap minat beli masyarakat. Namun para pengrajin tangan bisa dikatakan sukses apabila produknya sudah  memiliki banyak peminat, apalagi jika mereka sudah mendapatkan penampung yang mau menjual kembali produk kerajinan tangannya dipasaran, sangat menguntungkan pastinya.
+
+### Memulai usaha kerajinan tangan
+
+Jika sobat bisnis7 tertarik dengan peluang usaha kerajinan tangan, Anda pastikan harus memiliki keahlian dalam membuat suatu barang yang dibuat dari barang-barang bekas. Keahlian yang kreatif sangat diperlukan dalam memulai usaha kerajinan tangan. Semakin kreatif maka akan semakin besar peluang untung yang bisa Anda dapatkan. Persiapan mental yang perlu dilakukan dalam memulai usaha kerajinan tangan : Keahlian yang kreatif Tidak malu dalam menggumpulkan barang-barang bekas Semangat usaha yang tinggi Alternatif lain yang bisa Anda lakukan jika tidak memiliki keahlian dalam membuat kerajinan tangan adalah dengan cara mencari supllier (pembuat) kerajinan tangan. Anda bisa melakukan negosiasi agar mendapatkan harga murah, lalu Anda bisa jual kembali dipasaran. Cukup sudah pembahasan kita kali ini mengenai peluang usaha kerajinan tangan, semoga informasi ini dapat memberikan kita manfaat serta menjadi tambahan luas wawasan kita. Temukan ragam informasi bisnis yang jauh lebih menarik lagi hanya di bisnis7.com.

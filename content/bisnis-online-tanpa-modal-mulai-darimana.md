@@ -1,0 +1,22 @@
+---
+title: 'Bisnis Online Tanpa Modal, Mulai Darimana?'
+date: 2016-03-01T11:44:46+07:00
+draft: false
+tag: [bisnis online, cara bisnis online, cara memulai bisnis online, cara mendapatkan uang dari internet, panduan bisnis online, Tips]
+---
+## Bisnis Online Tanpa Modal, Mulai Darimana?
+----
+
+Buat anda yang mulai tertarik untuk menjadi seorang pelaku bisnis online, pertanyaan seperti pada judul artikel ini seringkali muncul. Mulai darimana? Jawabannya mudah.
+
+### Mulailah dengan memilih tipe bisnis online yang ingin anda jalani.
+
+Anda dapat membaca beberapa pilihan bisnis online seperti: **1\. Menjadi seorang penulis artikel blog** Pendapatan anda bisa didapatkan lewat menjual **jasa penulis artikel** blog atau anda juga dapat membuat [blog bisnis](http://www.bisnis7.com) tersendiri dan [menghasilkan uang lewat Google Adsense](/bisnis-online-tanpa-modal-dengan-google-adsense/). **2\. Menjadi seorang affiliate marketer** Jika anda lebih menyukai bidang penjualan, menghasilkan uang dari internet dengan affiliate marketing mungkin akan terlihat lebih menarik ketimbang menghasilkan uang dengan menayangkan iklan. Cara kerja affiliate marketing cukup sederhana, anda hanya perlu menentukan niche apa yang ingin anda garap, kemudian membuat website/blog dan mengisinya dengan konten yang relevan dengan niche pilihan anda. Setelah itu anda perlu mendatangkan pengunjung sebanyak-banyaknya ke website/blog anda **3\. Menjadi seorang reseller atau dropshipper** Cara ini mungkin lebih sulit ketimbang menjadi seorang affiliate marketer karena anda kemungkinan membutuhkan modal uang dalam jumlah tertentu dan ikut menanggung resiko bisnis. Namun cara mendapatkan uang dari internet dengan menjadi reseller atau dropshipper memiliki kelebihan dibandingkan affiliate marketing, yaitu anda dapat membangun brand milik anda sendiri. **4\. Menjadi seorang Forex trader atau Stock trader** Anda akan membutuhkan kemampuan untuk membaca grafik harga, analisa teknikal dan analisa fundamental ekonomi untuk memprediksi perubahan harga baik pada nilai mata uang maupun pada nilai saham. Menjadi seorang trader forex maupun trader saham berarti mengerti mengenai resiko-resiko yang akan dihadapi. Cara ini tidak disarankan untuk orang yang enggan belajar dengan sabar. **5\. Ikut ke dalam bisnis MLM atau ikut money game** Sebenarnya ikut bisnis MLM mirip dengan menjadi seorang reseller atau dropshipper. Namun produk yang anda tawarkan tentu saja dikeluarkan oleh perusahaan MLM. Anda akan mendapatkan insentif dan penghasilan pasif lewat menjual produknya dan membangun jaringan penjualan di tim anda. **6\. Menjual produk anda sendiri** Jika anda sudah memiliki toko sendiri, menjual produk anda di internet merupakan pilihan paling mudah dan paling cerdas. Anda tidak perlu membangun kredibilitas bisnis perusahaan atau orang lain, dengan memasarkan produk anda di internet, anda justru akan membangun kerajaan bisnis anda sendiri. **7\. Menjadi seorang freelancer** Bekerja secara freelance dengan koneksi internet sekarang sudah sangat populer dengan adanya situs seperti Upwork, Freelancer, Sribu, 99design, dll. Anda dapat mulai membuat profil anda di salah satu website tersebut untuk dapat mulai menjual skill anda.
+
+### Membuat blog/website dan akun sosial media
+
+Setelah anda memilih tipe bisnis online yang anda inginkan, sekarang anda memerlukan media promosinya. Untuk mendapatkan uang dengan cara no.1 dan 2 anda wajib membuat sebuah blog/website yang akan digunakan untuk menayangkan iklan maupun untuk memposting link affiliasi anda. Namun jika anda memilih cara lainnya, anda dapat memasarkan produk anda di sosial media maupun forum-forum yang ramai pengunjung. Baca: [Cara Membuat Blog Wordpress Self Hosted Di cPanel](/cara-membuat-blog-wordpress-self-hosted-di-cpanel/)
+
+### Mempromosikan bisnis anda dengan konsisten
+
+Langkah ini mungkin yang paling sulit dari antara kedua langkah diatas. Untuk dapat melakukan promosi bisnis online anda dengan konsisten, membutuhkan tekat yang kuat serta kemauan untuk terus belajar. Seorang pelaku bisnis online harus dapat mengikuti tren sehingga cara promosinya tetap jitu dan mendatangkan banyak calon pembeli pada iklannya. Mempromosikan produk/jasa anda di internet tidak selalu harus bayar, ada yang hanya membutuhkan waktu dan tenaga untuk copy paste iklan anda.

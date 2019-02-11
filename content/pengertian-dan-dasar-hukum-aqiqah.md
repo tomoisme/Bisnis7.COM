@@ -1,0 +1,51 @@
+---
+title: 'Pengertian Dan Dasar Hukum Aqiqah'
+date: 2018-09-10T03:49:56+07:00
+draft: false
+tag: [bisnis aqiqah, bisnis hewan aqiqah, bisnis hewan kurban, bisnis ternak, bisnis ternak domba, bisnis ternak hewan aqiqah, bisnis ternak hewan kurban, bisnis ternak kambing, bisnis ternak sapi, hukum aqiqah, Info]
+---
+
+## Pengertian Dan Dasar Hukum Aqiqah
+-----
+
+Setiap umat muslim pastinya tahu akan istilah “aqiqah”. Namun, tidak semuanya mungkin mengetahui secara lebih detail tentang makna dibalik penyelenggaraan acara aqiqah tersebut. Seperti beberapa pertanyaan mendasar berikut ini: Apakah hukum aqiqah tersebut? Kapan seharusnya melaksanakannya? Dan beragam pertanyaan lainnya.
+
+Pengertian Aqiqah Menurut Istilah dan Bahasa
+--------------------------------------------
+
+Jika kita mengkaji apa itu istilah aqiqah menurut bahasa dan istilah, maka aqiqah ini adalah sebuah ibadah yang dilakukan oleh para orang tua atas bentuk syukur mereka kepada Allah untuk anugerah karunia anak yang dititipkan kepada mereka. Al aqiqah atau Aqiqah adalah bentuk hewan yang menjadi qurban dengan niat beribadah kepada Allah SWT dengan cara menyembelihnya sesuai dengan syariat islam. Pastinya yang melakukan aqiqah adalah ibadah yang diniatkan untuk menambahkan keimanan dan wujud dari rasa syukur atas karunia yang di berikan oleh Allah SWT. Aqiqah sendiri adalah kata yang diambil dari kata ‘Aqqu yakni bermakna “potong”. Sedangkan makna dari kata potong ini bisa berarti mencukur sedikit rambut bayi yang sedang di aqiqahkan atau bisa juga berarti penyembelihan hewan yang diqurbankan dalam proses aqiqah tersebut. Jadi pada dasarnya, aqiqah adalah makna pemotongan atau pencukuran rambut dan penyembelihan hewan qurban yang dibedakan berdasarkan jenis kelamin bayi tersebut. Karena seperti yang kita ketahui, bahwasanya nikmat dan rezeki yang diberikan oleh Allah SWT tidak hanya berupa harta benda namun termasuk juga didalamnya titipan anak yang sholeh dan sholeha. Adapun proses dari aqiqah ini sendiri juga akan menyertakan pemotongan sedikit rambut sang anak nantinya. Dimana proses penyembelihan hewan dan proses pemotongan rambut sang anak akan dilakukan pada hari yang sama. Jadi jika kita harus menyimpulkan definisi dari Aqiqah maka akan berarti pemotongan secara bahasa. Dan jika didefinisikan secara syar’i maka akan berarti penyembelihan seekor binatang atas ungkapan rasa syukur atas kelahiran seorang bayi yang dilakukan oleh para orang tua. Ini adalah bentuk dari ketaatan dan sebuah keiklasan yang akan dilakukan atas lahirnya sang buah hati. Serta melakukan aqiqah ini juga memerlukan beragam syarat-syarat tertentu.
+
+Hukum Aqiqah Menurut Islam
+--------------------------
+
+Jika kita membahas tentang bagaimana hukum aqiqah maka ini adalah sunnah atau muakad di dalam ajaran agama islam. Bahkan ini merupakan salah satu hukum atau pendapat yang banyak disepakati oleh para jumhur atau ulama terkemuka di dalam ilmu agama islam. Bahkan di Indonesia sendiri yang mana memiliki struktur pemandu keagamaan berupa majelis agama juga membenarkan bahwasanya hukum melaksanakan aqiqah adalah sunnah. Sunnah sendiri di dalam islam adalah sebuah perbuatan yang tidak akan menimbulkan dosa jika ditinggalkan adapun melaksanakannya akan mendaptkan imbalan pahala. Adapun hukum aqiqah lain yang menyatakan aqiqah bersifat wajib adalah ulama yang termasuk kedalam kalangan atau golongan Zhahiriyah. Dan beberapa kaum ulama lain menyatakan bahwasanya aqiqah adalah sunnah dan bukan kewajiban umat muslim.
+
+Sejarah Singkat Aqiqah
+----------------------
+
+Sesungguhnya pelaksanaan aqiqah ini sendiri di dalam islam telah dimulai dari zaman jahiliyah. Dimana masyarakat jahiliyah melakukan proses penyembelihan hewan dan sebuah ritual tertentu untuk menyatakan rasa suka cita lahirnya seorang anak kedunia. Ini tercantum dalam sebuah hadist yang diriwayatkan oleh Abu Dawud, yakni : _“__Dahulu kami di masa jahiliyah apabila salah seorang diantara kami mempunyai anak, ia menyembelih kambing itu. Maka, setelah Allah mendatangkan Islam, kami menyembelih kambing, mencukur (menggundul) kepala si bayi, dan melumurinya dengan minyak wangi.” (HR. Abu Dawud juz 3, hal. 107, no. 2843 dari Buraidah)._ Bahkan Ibnu Hibban juga meriwayatkan hal yang sama yakni : _“__Dari ‘Aisyah, ia berkata,”Dahulu orang-orang pada masa jahiliyah apabila mereka berakikah untuk seorang bayi, mereka melumuri kapas dengan darah akikah, lalu ketika mencukur rambut si bayi mereka melumurkan pada kepalanya. Maka Nabi SAW bersabda,”Gantilah darah itu dengan minyak wangi” \[HR. Ibnu Hibban juz 12, hal. 124, no. 5308\]_   Aqiqah sebenarnya telah diperkenalkan dalam sejarah islam sebelum nabi Muhammada diangkat sebagai nabi Allah SWT atau zaman ketika masih dalam pra Islam. Ketika masa jahiliyah silam memang sudah dikemukakan maslaah pemotongan hewan untuk pencukuran rambut para bayi yang lahir seperti halnya yang kita bahas di atas. Sedangkan pada zaman Nabi Muhammada SAW, contoh untuk melaksanakan aqiqah beliau contohkan saat melakukan proses aqiqah kedua cucunya yani Hasan dan Husein. Dan inilah beragam cerita akan dasar hukum dan penyelenggaraan Aqiqah di dalam islam. Sejarah awal terbentuknya tradisi untuk menqurbankan hewan aqiqah yang dilakukan hingga saat ini.
+
+Dasar Hukum Aqiqah
+------------------
+
+Walaupun kebanyakan dasar dari hukum aqiqah hanya didasari oleh hadist Nabi Muhammad namun ada beragam hal yang bisa disimak dan menjadi pemaknaan yang mendalam akan apa saja yang mendasari pelaksanaan aqiqah ini. Berikut hadis yang mendasari untuk menentukan hukum aqiqah : _“dari Anas RA bahwasanya Nabi SAW ber’aqiqah untuk dirinya sesudah beliau menjadi Nabi”. \[HR. Baihaqi juz 9, hal. 300\]._ Dengan adanya keterangan yang ada di dalam hadist diatas ada beragam pendapat yang dihasilkan oleh para ulama. Bahkan beberapa ulama menganjurkan untuk melaksanakan aqiqah setelah anak agak dewasa. Pernyataan ini berdasarkan hadist : _“Setiap anak tergadaikan dengan akikahnya, disembelih pada hari ketujuh, dicukur, dan diberi nama.”_ Ini merupakan hadist yang diriwayatkan oleh Abu Daud, Imam Ahamd, Ibn Majah dan Nasa’i dengan sanad yang sahih. Sedangkan untuk pelaksanaanya sendiri tidak perlu membuat kita menjadi bingung dengan banyaknya perbedaan pendapat di atas. Apapun yang dipilih adalah keputusan terbaik nantinya karena diniatkan hanya demi Allah SWT. Adapun perbedaan pendapat yang dinyatakan oleh beragam ulama hanya sebagai sebuah ilmu yang bisa membuat para orang tua menjadi lebih faham dan bisa membantu dalam beristiqarah untuk mengambil keputusan yang tepat.
+
+Hukum Aqiqah Menggunakan Uang Pinjaman atau Hutang
+--------------------------------------------------
+
+Kita tahu bahwasanya hukum dari aqiqah adalah sunnah. Hanya saja tidak semua orang tua memiliki kemampuan yang sama untuk melakukan aqiqah. Jadi jika memang sang orang tua adalah orang yang mampu untuk melakukan aqiqah maka sangat disarankan untuk melakukannya karena hukum aqiqah adalah mendekati wajib alias sunnah muakad. Sedangkan orang tua yang penghasilannya tidak mencukupi namun ingin melakukan aqiqah dengan cara meminjam atau berhutang yang belum jelas apakah bisa dibayar dikemudian hari atau tidak, maka berikut kutipan dari Imam Ahmad Rahimahullahu : _“__Kalau dia tidak memiliki harta untuk aqiqah kemudian berhutang maka aku berharap Allah menggantinya karena dia telah menghidupkan sunnah ”_ Namun untuk menghindari adanya mudharat maka tidak disarankan untuk melaksanakan aqiqah dengan cara berhutang.
+
+Hukum Aqiqah Menggunakan Kambing Betina
+---------------------------------------
+
+Ada banyak pendapat yang menyertai masalah aqiqah dan pelaksanaannya. Termasuk jenis hewan yang akan diqurbankan saat acara tersebut. Salah satunya adalah larangan menggunakan kambing betina. Namun benarkah nabi Muhammad SAW melarangnya?
+
+*   Asy Syairozi mengatakan: _“Boleh-boleh saja berkurban dengan hewan jantan maupun betina.”_
+*   Nabi Muhammad juga Bersabda :
+
+_“__Anak laki-laki hendaklah diaqiqahi dengan 2 kambing, sedangkan anak perempuan dengan 1 kambing. Tidak mengapa bagi kalian memilih yang jantan atau betina dari kambing tersebut.” (HR. An Nasai no. 4222 dan Abu Daud no. 2835. Al Hafizh Abu Thohir mengatakan bahwa hadits ini hasan)._ Nah setelah mengetahui hadist di atas kita bisa menyimpulkan bahwa aqiqah menggunakan kambing betina tidak dilarang atau boleh-boleh saja.
+
+Hukum Aqiqah Di Usia Dewasa
+---------------------------
+
+Mungkin ada segelintir orang tua yang bukannya sengaja namun dalam kondisi yang terpaksa dan mereka tidak bisa mengaqiqahkan anak mereka sewaktu masih kecil. Nah bagimana hukumnya jika sang anak sudah dewasa bahkan sudah berkeluarga masih bolehkah untuk dilakukan aqiqah? Jika memang dibolehkan, bagaimana caranya? Karena seperti yang kita bahas di atas tidak semua orang tua dikaruniai penghasilan yang cukup untuk melaksanakan aqiqah. Bahkan jika harus menghutang untuk melakukan proses ini, sebenarnya lebih tidak dianjurkan. Sebelum menjawab pertanyaan di atas, kita juga harus tahu aturan dari aqiqah. Walaupun hukumnnya sunnah, namun ada beberapa aturan dan salah satunya adalah tentang kapan pelaksanaan aqiqah. Masa melaksanakan aqiqah untuk sang anak adalah sebelum mereka memasuki usia baligh (dewasa). Nah jika sang anak sudah memasuki usaia dewasa alias baligh maka tanggung jawab aqiqah dibebankan kepadanya. Sang anak bisa memilih tetap melakukan proses aqiqah atau tidak.  Namun, memang dianjurkan untuk tetap melaksanakannya karena ada sebagian ulama (seperti yang dijelaskan di atas) menyatakan bahwasanya aqiqah adalah sebuah proses yang wajib dalam islam. Jika sang orang tua tetap ingin melaksanakan proses aqiqah setelah anaknya baligh maka mereka bisa memberikan uang atau berupa hewan ternak yang akan diqurbankan kepada sang anak. Karena pada dasarnya hak orang tua untuk melakukan aqiqah pada anak mereka akan habis jika anak telah baligh. Dan keputusan tersebut akan diambil alih secara otomatis oleh sang anak jika ia memang belum melakukan proses aqiqah hingga ia baligh atau dewasa. Nah, demikianlah semua hal tentang aqiqah, mulai dari pengertian menurut istilah, hukum, sejarah dan bagaimana penjelasan pelaksanaan dari aqiqah tersebut. Semoga memberikan ilmu yang bermanfaat bagi kita semua.

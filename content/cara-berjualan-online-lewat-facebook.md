@@ -1,0 +1,18 @@
+---
+title: 'Cara Berjualan Online Lewat Facebook'
+date: 2018-09-07T09:34:37+07:00
+draft: false
+tag: [Info]
+---
+## Cara Berjualan Online Lewat Facebook
+----
+
+**Bisnis7.com - Cara Berjualan Online Lewat Facebook** | Facebook merupakan media sosial paling top di dunia dengan ratusan juta hingga milyaran pengunjung tiap harinya. Hampir semua kalangan, semua umur dan banyak sekali orang di seluruh penjuru dunia menggunakan media sosial bernama facebook ini. Entah apa tujuan mereka bermain facebook, tapi jika dilihat dari perkembangannya saat ini. Fb memang selalu menjadi sarana yang nyaman ketika ingin mencari sesuatu yang baru. Bicara sesuatu yang baru, ternyata facebook juga memberikan manfaat banyak bagi semua orang, khususnya para pelaku bisnis. Perkembangan bisnis pada masa kini, memang sudah seharusnya memiliki strategi pemasaran baru agar potensi keuntungan dalam berbisnis lebih besar, dan besar lagi. Memanfaatkan media facebok dalam strategi pemasaran online sangatlah menguntungkan, karena ribuan juta pengguna aktif pada setiap harinya.
+
+### Cara Berjualan Online Lewat Facebook
+
+Jadi sudah tidak diragukan lagi bahwa facebook memang bisa kita jadikan sarana bisnis jangka panjang yang menguntungkan. Peluang ini bisa Anda manfaatkan untuk berjulan online lewat facebook. Untuk melakukan jualan lewat facebook, tidak ada aturan yang melarang. Bila yang dijual bukan benda, barang, yang sifatnya terlarang, maka Anda boleh boleh saja untuk berjualan di fb. Hal pertama dalam memulai jualan lewat facebook, dapat dimulai dengan cara membuat akun facebook. Setelah itu maka Anda hanya tinggal mengupload  gambar asli produk yang Anda jual. Hal kedua yang bisa Anda lakukan adalah dengan cara membuat fanpage (halaman) bisnis di facebook.  Jika Anda memilih berjualan dengan cara mendirikan halaman facebook maka Anda bisa memanfaatkan fitur facebook Ads. Fb ads adalah sebuah fitur beriklan yang ditawarkan bagi para pengguna  fb untuk mempromosikan usaha mereka. Untuk sistem kerjanya, umumnya fb ads ini akan melakukan penyebaran iklan secara luas terhadap halaman (fanpage) fb bisnis Anda, dengan tujuan agar halaman (fanpage) bisnis banyak diketahui oleh para pengguna fb.
+
+### Tips Berjualan Di Facebook
+
+Agar Anda lancar berjualan di facebook. Maka pastikan untuk memperhatikan jenis barang atau jasa yang Anda jual. Pikirkan juga tentang cara melakukan pembayaran dan pengiriman barang, apa itu COD atau via transfer lalu barang Anda kirim melalui jasa ekspedisi. Untuk menanggapi pesanan atau istilah tenarnya "cek pm", maka Anda harus sigap dan cermat akan hal ini, setiap pengguna facebook yang biasanya berkomentar " cek pm", bermaksud untuk Anda agar segera melihat isi pesan yang darinya. Isi "pm" bisa saja berupa deskripsi atau penawaran harga yang lebih rendah. Apapun isi "pm" tersebut, Anda harus menanggapinya dengan hal positif. Sebisa mungkin Anda harus berikan layanan terbaik, sehingga potensi terjadinya transaksi penjualan lebih besar. Sedangkan untuk sistem pembayaran, sebaiknya dilakukan sebelum Anda mengirim barang ke alamat konsumen. Jika Anda telah menerima bukti pembayaran, maka Anda berikan konsumen bukti packing barang lalu berikan no.resi pengiriman barang. Jangan sesekali Anda percaya dengan sistem kirim dulu bayar nanti, Anda harus ingat bisnis online itu menguntungkan, tapi bisa sangat merugikan jika Anda tidak berhati-hati dalam hal ini. Jika Anda bingung menentukan metode pembayaran, maka pilihlah saja dengan menggunakan sistem cash on delivery. ---- Sekian informasi yang bisa kami sampaikan, semoga artikel ini bermanfaat bagi kita semua. Dan jangan lupa untuk share yea... _See you next time again...thankyou :)_

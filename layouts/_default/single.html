@@ -1,0 +1,28 @@
+{{ partial "header" . }}
+
+<div class="container">
+    <div class="col-md-12 col-sm-12">
+        <small class="float-right">{{.Date.Format "02 Jan 2006"}}</small>
+        {{ .Content }}
+        <hr>
+        {{ $related := .Site.RegularPages.Related . | first 10 }}
+        {{ with $related }}
+        <h3>Artikel Yang Berkaitan</h3>
+        <ul>
+            {{ range . }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        <hr>
+        <p>
+            Tagar:
+            {{ $siteurl := .Site.BaseURL }}
+            {{ range .Params.tag }}
+            #<a href="{{ $siteurl }}tag/{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+        </p>
+    </div>
+</div>
+
+{{ partial "footer" . }}

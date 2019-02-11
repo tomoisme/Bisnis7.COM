@@ -1,0 +1,27 @@
+---
+title: '4 Alasan Rental PS (PlayStation) Sudah Jarang Diminati'
+date: 2017-08-05T11:37:31+07:00
+draft: false
+tag: [Info]
+---
+## 4 Alasan Rental PS (PlayStation) Sudah Jarang Diminati
+---- 
+**Bisnis7.com - inilah 3 alasan kenapa rental PS (playstation) sudah jarang diminati** | Apa kabar sahabat bisnis dimanapun Anda berada, semoga sehat dan bahagia menyertai Anda semua. Pada kesempatan kali ini kami akan mengajak Anda untuk bernostalgia mengenai playstation. ![3 alasan kenapa rental PS sudah jarang diminati](https://www.bisnis7.com/wp-content/uploads/2017/07/usaha-rental-ps-mulai-sepi-peminat.jpg) Jika anda termasuk gamer, saya yakin Anda akan familiar dengan istilah PS (PlayStation), banyak sekali anak-anak dan remaja yang sehabis pulang sekolah menghabiskan waktunya di depan layar untuk bermain game konsol ini. Pilihan game yang dapat dimainkan beragam, seperti misalnya: Winning Eleven, Nascar Rumble, Tekken, One Piece dan lain sebagainya. Menjadi hal yang sangat seru tentunya bagi mereka dan juga mendatangkan keuntungan bagi pengusaha rental PS, namun sayang lambat laun dunia persewaan playstation sudah semakin berkurang setiap tahunnya. Di wilayah jakarta sendiri, rental PlayStation jumlahnya bisa terhitung jari saja. Menurut survei yang telah kami rangkum hanya ada sekitar 4-5 rental PS di wilayah 1 kecamatan saja, itupun jaraknya sangat berjauhan satu sama lain. Biasanya rental PS ini berada pada daerah yang masih agak terpencil dimana belum ada akses internet. Berbeda dengan pada sekitar tahun 2000-an, jumlah rental playstation sangatlah menjamur. Bahkan lokasi rental **PS** banyak yang jaraknya sangat berdekatan, seakan tidak perduli akan adanya persaingan usaha. Bermodalkan beberapa unit layar tv, disc dan konsol PS, para pengusaha rental playstation ini pun banyak meraup keuntungan dalam perharinya. Para pemilik rental biasanya menetapkan harga sewa per-jam PS yang disewanya sekitar Rp 3.000/jam, jika rental tersebut memiliki 10 unit PS yang aktif disewakan selama 16 jam, maka perhitungannya 16 jam x Rp 3.000 = Rp 48.000 lalu dikalikan dengan jumlah unit 10 PS, maka total omset perharinya sebesar = Rp 480.000. Namun hal itu jauh sebelum kini ditahun 2017 dimana para pengusaha rental sudah mulai kalang kabut alias gulung tikar. Memasuki tahun 2005 s/d 2007 dunia rental PS sudah mulai goncang dengan hadirnya akses internet cepat dan juga mulai maraknya penggunaan komputer untuk gaming. Selain itu perkembangan game online juga semakin maju dan banyak gamers yang mulai beralih dari game konsol ke game online. Game PlayStation memang memiliki visual audio dan gambar lebih jernih, apalagi dengan hadirnya PS 3. Namun kehadiran PS 3 ini hanya mendapat respon sesaat saja dikarenakan harga setiap unit PS 3 mencapai Rp 4-5 juta pada waktu itu, sontak hanya kalangan berduit aja yang mampu dan minat saja yang dapat membeli konsol game favorit tersebut. Semakin menipisnya peluang usaha rental PS di masa sekarang ini pasti dipengaruhi oleh beragam faktor yang menyebabkan game PS sudah jarang diminati. Menjawab berbagai macam faktor yang mengakibatkan dunia perentalan PS punah, berikut dibawah ini bisnis7.com 3 alasan mengapa rental PS sudah jarang diminati.
+
+### 3 alasan Yang Menyebabkan Rental PS (playstation) sudah jarang diminati
+
+1.  **Pengusaha rental yang jera terhadap pelajar siswa/i yang bolos**
+
+Bukan tujuan awal para pengusaha rental, bila ada terdapat pelajar  yang berseragam bolos lalu bermain PS. Pandangan seperti ini tentunya membuat para pengusaha rental sulit beradaptasi. Mereka mungkin sudah memberi larangan, seperti : Dilarang bermain dalam keadaan bolos, dlsb. Tujuan mendapatkan untung malah mendapat cacian dari lingkungan, bahkan teguran kerap sekali bila terdapat ada orang tua pelajar kepergok melihat anaknya bolos pada rental tersebut.
+
+2.  **Pengusaha rental jera karena tempatnya dijadikan sarana merokok**
+
+Perlu diketahui bahwa seiring perkembangan zaman kenakalan remaja semakin terus meningkat. Dan hal ini mereka lakukan ketika bermain PS, memang mereka bayar sewa namun bukan berarti mereka suka-suka menciptakan lingkungan yg jorok dan tidak sehat.
+
+3.  **Pengusaha rental tekanan akan pesaingnya warung internet**
+
+Jika masalah pada point (1) & (2) sudah tidak ada masalah, maka yang jadi permasalahan lainnya adalah kalah saing dengan pengusaha warnet (warung internet). Selain harga sewa warnet yg lebih murah, para penyewa warnet juga dimanjakan dengan kehadiran sosial-sosial media yang sangat mengasyikan.
+
+4.  **Harga game konsol yang kian terjangkau dan ekonomi yang semakin maju**
+
+Sebenarnya game konsol seperti PS, X Box, Nintendo, dll bukannya ditinggalkan peminat akibat adanya game online. Hal ini mungkin saja dikarenakan banyak orang lebih suka memainkan game konsol di rumah. Mengingat banyak orang tua yang khawatir akan pergaulan anak mereka di tempat rental PS, ada juga yang akhirnya membelikan konsol tersebut agar dapat mengontrol sendiri anaknya di rumah. Semakin hari dengan perkembangan teknologi yang signifikan, harga konsol game juga kian murah, selain itu juga pertumbuhan ekonomi Indonesia yang kian maju ikut mendorong tren game konsol rumahan lebih diminati ketimbang harus menyewa di rental. --- Itulah 4 alasan yang dapat kami nerikan terkait rental PS yang kini sudah jarang diminati. Semoga jadi kisah yang inspiratif ya.... Sampai jumpa di artikel menarik selanjutnya.

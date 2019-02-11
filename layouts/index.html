@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+<div class="container">
+    <div class="col-md-12 col-sm-12">
+        <h3>{{ .Title }}</h3>
+        <ul>
+            {{ range .Paginator.Pages }}
+            <li>
+                <a href="{{.Permalink}}"> {{.Title}}</a>
+                (<small>{{.Date.Format "2 Jan 2006"}}</small>)
+            </li>
+            {{ end }}
+        </ul>
+
+        {{ partial "pagination" . }}
+    </div>
+</div>
+
+{{ partial "footer" . }}
