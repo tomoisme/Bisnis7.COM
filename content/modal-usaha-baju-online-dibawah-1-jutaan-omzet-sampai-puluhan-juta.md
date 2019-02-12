@@ -1,9 +1,11 @@
 ---
 title: 'Modal Usaha Baju Online Dibawah 1 Jutaan Omzet Sampai Puluhan Juta'
-date: Fri, 07 Jul 2017 04:11:01+07:00
+date: 2017-07-07T04:11:01+07:00
 draft: false
 tag: [bisnis online, Info, jualan online, modal usaha, modal usaha kecil, usaha baju online]
 ---
+## Modal Usaha Baju Online Dibawah 1 Jutaan Omzet Sampai Puluhan Juta
+-----
 
 Bisnis online saat ini sudah kian menjamur dan menawarkan peluang bisnis yang sangat menggiurkan. Salah satu bidang bisnis online yang disukai oleh para pelaku bisnis adalah jualan baju online. Karena mudah untuk dijalankan dan terbukti menghasilkan keuntungan yang cukup besar.
 

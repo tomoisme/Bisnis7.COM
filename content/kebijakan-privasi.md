@@ -1,6 +1,6 @@
 ---
 title: 'Kebijakan Privasi'
-date: Sat, 12 Mar 2016 11:33:35+07:00
+date: 2016-03-12T11:33:35+07:00
 draft: false
 tag: []
 ---

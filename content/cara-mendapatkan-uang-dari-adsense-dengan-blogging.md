@@ -1,9 +1,12 @@
 ---
 title: 'Bisnis Online: Mendapatkan Uang Dari Adsense Dengan Blogging'
-date: Mon, 15 Feb 2016 03:18:06+07:00
+date: 2016-02-15T03:18:06+07:00
 draft: false
 tag: [bisnis internet, bisnis online, blog bisnis, blogging, cara mendapatkan uang dari internet, cara menghasilkan uang dari internet, Info, pasif income, passive income, penghasilan pasif, tips blogging, tutorial blog, tutorial blogging]
 ---
+
+## Bisnis Online: Mendapatkan Uang Dari Adsense Dengan Blogging
+----
 
 ### Apa Itu AdSense?
 

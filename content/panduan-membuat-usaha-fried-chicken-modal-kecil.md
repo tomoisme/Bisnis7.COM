@@ -1,9 +1,11 @@
 ---
 title: 'Panduan Membuat Usaha Fried Chicken Modal Kecil'
-date: Sun, 02 Sep 2018 07:12:47+07:00
+date: 2018-09-02T07:12:47+07:00
 draft: false
 tag: [Uncategorized]
 ---
+## Panduan Membuat Usaha Fried Chicken Modal Kecil
+-----
 
 **Bisnis7.com -  Panduan membuat usaha fried chicken modal** **kecil** | Usaha bisnis makanan _ayam goreng tepung_ memang selalu menjadi makanan yang paling favorit di semua kalangan, baik itu kalangan atas ataupun menengah kebawah. Hal ini di karenakan dibalik rasanya yang gurih dan enak, makanan yang akrab di sebut **fried chicken** ini, dikenal sebagai makanan cepat saji. Di indonesia sendiri banyak restaurant makanan cepat saji yang menghidangkan ayam goreng tepung dalam aneka rasa, seperti misalnya : CFC, KFC, King Burger, A&W, Mc donald, dll. Selain di restaurant, makanan ayam goreng berbalut tepung yang gurih dan crispy ini juga banyak dijual yang beredar dipinggir jalan (kaki lima). Seperti misalnya sabana fried chicken. Jika dilihat dari segi aspek, bisnis fried chicken ini termasuk dalam kategori bisnis makanan yang memiliki peluang untung yang sangat besar.
 

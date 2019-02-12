@@ -1,9 +1,10 @@
 ---
 title: 'Cara Menghasilkan Uang Dari Internet Dengan Kerja Online'
-date: Wed, 02 Mar 2016 18:49:14+07:00
+date: 2016-03-02T18:49:14+07:00
 draft: false
 tag: [bisnis online, cara mendapatkan uang dari internet, kerja dari rumah, kerja online, Tips]
 ---
+## Cara Menghasilkan Uang Dari Internet Dengan Kerja Online
 
 Di era modern seperti ini, pengguna internet sudah semakin banyak dan teknologi untuk mengakses internet sudah menjamur bahkan sampai ke pelosok pedesaan. Komputer dan gadget seperti smartphone dan tablet dapat digunakan secara leluasa untuk menjelajah jagad maya oleh jutaan orang. Hal ini tentu saja membawa dampak positif dan negatif pada masyarakat, tergantung pada tujuan akhir penggunaan akses internet itu sendiri. Jika anda perhatikan banyak sekali anak muda usia produktif yang membuang waktunya untuk berselancar di dunia maya. Ada yang sekedar bercengkerama dengan temannya di media sosial, saling bertukar komentar, membaca status teman ataupun idolanya di media sosial maupun menghabiskan waktu dengan bermain game online. Melakukan kegiatan-kegiatan tersebut memang tidak salah sepenuhnya, namun jika berlebihan tentu saja akan berdampak negatif bagi kehidupan. Apalagi bila mereka menggunakan akses internet untuk kegiatan yang jelas-jelas negatif seperti bermain judi online atau mengakses situs porno, hasilnya akan sangat merusak. Walaupun sisi negatif internet dan teknologi mengintai banyak orang, namun sisi positifnya dapat berpotensi sangat dashyat untuk produktivitas setiap orang yang ingin maju. Misalnya saja dengan **kerja online** sebagai freelancer (pekerja lepas waktu/paruh waktu) di internet. Ada banyak sekali lowongan kerja online maupun cara mendapatkan uang di internet yang bisa dipraktekkan oleh siapapun untuk menghasilkan pendapatan secara rutin dari internet. **Kerja Online, Apa Saja Yang Dibutuhkan?** Memulai perjalanan untuk mendapatkan uang dari internet memang tidak semudah yang dibayangkan oleh banyak orang. Sama seperti pada dunia nyata, untuk dapat sukses di bidang ini membutuhkan usaha dan kerja nyata serta kemauan belajar terus menerus. Selain itu juga anda harus investasi waktu untuk menekuni bidang ini dan tak lupa, anda juga butuh akses internet yang memadai. Jadi modal utama untuk meraih pendapatan dari internet adalah:
 

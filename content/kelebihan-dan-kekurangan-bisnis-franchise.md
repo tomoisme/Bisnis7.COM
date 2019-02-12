@@ -1,9 +1,11 @@
 ---
 title: 'Kelebihan Dan Kekurangan Bisnis Franchise'
-date: Thu, 27 Aug 2015 15:22:43+07:00
+date: 2015-08-27T15:22:43+07:00
 draft: false
 tag: [kekurangan bisnis franchise, kelebihan bisnis franchise, memilih bisnis franchise, Tips, tips memilih bisnis franchise]
 ---
+## Kelebihan Dan Kekurangan Bisnis Franchise
+----
 
 Membeli bisnis franchise dapat membantu seseorang untuk membangun sebuah usaha lebih cepat daripada memulai usaha sendiri dari nol.
 

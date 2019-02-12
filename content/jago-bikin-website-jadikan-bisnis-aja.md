@@ -1,9 +1,11 @@
 ---
 title: 'Jago Bikin Website? Jadikan Bisnis Aja!'
-date: Fri, 18 Aug 2017 09:20:31+07:00
+date: 2017-08-18T09:20:31+07:00
 draft: false
 tag: [bisnis jasa, bisnis kreatif, Info, jasa pembuatan website, umkm]
 ---
+## Jago Bikin Website? Jadikan Bisnis Aja!
+----
 
 **Bisnis7.com -** Halo semua sobat bisnis7 dimanapun Anda berada, kita semua tahu bahwa yang namanya berbisnis tidak hanya membutuhkan modal saja, tetapi kita juga perlu yang namanya sebuah ide bisnis. Dan pada kesempatan kali ini bisnis7 akan memberikan sebuah ide yang bisa Anda jadikan sebagai peluang usaha yaitu **jasa pembuatan website**. ![](https://www.bisnis7.com/wp-content/uploads/2017/08/panduan-bisnis-jasa-pembuatan-website.jpg) Bisnis membuat website adalah bisnis yang masuk dalam kategori jasa online. Bisnis ini bisa dijalankan oleh siapa saja, khususnya bagi Anda yang memiliki keahlian dalam membuat sebuah website. Secara umum, website memiliki fungsi sebagai tempat (rumah) yang didalamnya terdapat isi konten seperti; teks, gambar, file, maupun video. Adapun juga yang menjadikan sebuah website sebagai sarana media sosial, toko online, komunitas, hingga portfolio. **Dari mana peluang bisnis website bisa menguntungkan ?** Seperti yang bisa Anda lihat, bahwa di jaman yang semakin modern ini semua bisa dilakukan dengan cara online. Misalnya membaca sebuah berita, menonton video streaming, transaksi perbankan, hingga belanja maupun berjualan. **Apa keuntungan bagi mereka yang memiliki Website ?** Memiliki sebuah website sama saja seperti memiliki sebuah rumah, di dalamnya Anda bebas melakukan hal apapun yang Anda suka. Sisi lain keuntungan website adalah bisa dijadikan sebagai alat pencari uang secara online. Mereka yang memilki website bisa menghasilkan uang dengan cara mengikuti program periklanan (advertising), menjual jasa service, hingga membuka toko online. **_Baca  juga artikel terkait :  _****Bisnis menguntungkan Bermain Blog dan Google adsense**
 

@@ -1,9 +1,11 @@
 ---
 title: 'Memulai Bisnis Properti Syariah Dengan Mudah'
-date: Fri, 28 Jul 2017 08:02:12+07:00
+date: 2017-07-28T08:02:12+07:00
 draft: false
 tag: [bisnis properti, bisnis syariah, Info, usaha syariah]
 ---
+## Memulai Bisnis Properti Syariah Dengan Mudah
+-----
 
 **Bisnis7.com - Memulai bisnis properti syariah dengan mudah** dapat Anda lakukan dengan cara menyimak artikel ini. Bisnis properti sudah sangat populer hampir disemua kalangan, mungkin karena perkembangan bisnisnya yang saat ini semakin kian berkembang. Wajar saja jika demikian,  karena bisnis properti ini sudah masuk kedalam kategori peluang usaha yang menjanjikan. Sama hal nya dengan bisnis investasi, bisnis properti juga termasuk jenis usaha yang bisa mendatangkan peluang untung besar dimasa mendatang. Namun disamping itu, bagaimana jika kita kaitkan dengan bisnis properti syariah ? Mungkin banyak beranggapan bahwa bisnis properti dengan proses cicilan dan juga bunga,  menjadi sebuah pertanyaan bagi mereka para pelaku bisnis properti (muslim). Mereka takut karena bisnis ini bisa masuk kedalam kategori riba. ![](https://www.bisnis7.com/wp-content/uploads/2017/07/memulai-investasi-properti-syariah.jpg)Terlepas dari semua itu, mari kita simak tuntas mengenai bisnis properti yang bisa dijalankan secara syariah Investasi properti atau bisnis properti kini sudah dapat diterapkan dalam bentuk syariah. Mengapa demikian ? Karena tujuan dan inti dari sebuah bisnis/ investasi syariah adalah bagi hasil. Bagi hasil disini memliki arti yang dimana dalam pelaksanaannya menggunakan hukum-hukum syariah yang ditentukan dalam  Islam. Tanpa riba, tanpa bunga, dan tanpa adanya unsur-unsur penipuan. Maka bagi Anda yang khawatir akan adanya riba dalam sebuah bisnis properti tidak perlu takut lagi, karena Anda bisa mengambil jalan bisnis properti dengan cara syariah.
 

@@ -1,9 +1,11 @@
 ---
 title: 'Food Truck, Sebuah Konsep Bisnis Kuliner Yang Menarik'
-date: Wed, 05 Jul 2017 13:22:59+07:00
+date: 2017-07-05T13:22:59+07:00
 draft: false
 tag: [bisnis food truck, bisnis kreatif, bisnis kuliner, ide bisnis, Info, ulasan bisnis, ulasan usaha, usaha kuliner]
 ---
+## Food Truck, Sebuah Konsep Bisnis Kuliner Yang Menarik
+----
 
 Pernahkah anda melihat sebuah truk atau kendaraan besar yang di-modifikasi fungsinya khusus untuk berjualan makanan keliling? Mungkin bagi anda yang berada di perkotaan besar pernah melihatnya sesekali melintas. Ada yang berjualan fast food seperti burger, sandwich, taco, ayam goreng, makanan Jepang dan Korea seperti ramen dan bibimbap hingga makanan tradisional khas Indonesia seperti nasi goreng hingga gudeg juga ada. Bagi anda yang tinggal di kota kecil mungkin akan jarang melihat food truck karena konsep bisnis ini memang masih sangat jarang di Indonesia. Salah satu alasannya dikarenakan modal awal yang relatif besar untuk membuat bisnis kuliner berkonsep food truck. Masyarakat Indonesia yang masih di dominasi kalangan menengah ke bawah jadinya cukup enggan untuk mengeluarkan budget untuk memulai bisnis kuliner dengan konsep food truck. Alhasil, di kota besar Indonesia sendiri, food truck biasanya beroperasi di seputaran area yang terkesan elit, misalnya saja di Kemang, Bintaro, CFD Thamrin dan ditempat-tempat lainnya yang daya beli masyarakatnya sudah tinggi. ![](https://www.bisnis7.com/wp-content/uploads/2017/07/food-truck-konsep-bisnis-kuliner-yang-menarik.jpg)Food truck awalnya populer di negara-negara maju dimana harga otomotif telah sangat kompetitif dan terjangkau bagi masyarakat, selain itu juga ada banyak truk-truk bekas yang harganya lebih miring lagi. Di Indonesia sendiri bukannya tidak ada segmen food truck yang menengah ke bawah, namun masih bisa dibilang jarang sekali. Hanya pengusaha-pengusaha muda yang kreatif dan memiliki hobi otomotif sajalah yang biasanya berminat untuk menekuni bidang usaha ini. Kategori food truck kelas menengah ke bawah pada umumnya menjual makanan yang mudah untuk disajikan seperti bakso, mie ayam, jamur krispy, dll. Untuk kalangan bawah pun sebenarnya sudah ada food truck yang menjual tahu bulat, jumlahnya bahkan bisa dibilang cukup banyak (walaupun seiring waktu terus berkurang karena sepertinya merugi). Anda kemungkinan akan melihat mobil pick up bak terbuka yang dimodifikasi sedemikian rupa untuk memuat bahan-bahan makanan tadi.
 

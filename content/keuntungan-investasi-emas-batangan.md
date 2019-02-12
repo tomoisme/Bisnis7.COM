@@ -1,9 +1,11 @@
 ---
 title: 'Keuntungan Investasi Emas Batangan'
-date: Mon, 03 Sep 2018 06:29:07+07:00
+date: 2018-09-03T06:29:07+07:00
 draft: false
 tag: [cara investasi emas, Info, investasi emas, panduan investasi]
 ---
+## Keuntungan Investasi Emas Batangan
+----
 
 **Bisnis7.com - Keuntungan investasi emas batangan** | Bicara soal investasi pastinya sudah tidak asing lagi, apalagi jika ditanya soal manfaat serta fungsinya, pastinya sangatlah jelas menguntugkan. Keberadaan investasi memang sudah menjadi trend bisnis bagi khalayak umum, tidak hanya bagi mereka kalangan atas tetapi kalangan menengah kebawah juga sangat tertarik dengan sistem investasi yang sedang marak diperbincangkan ini. Pada dasarnya investasi memiliki kemiripan arti dengan menabung, namun tedapat makna yang berbeda. Jika menabung hanya melakukan simpanan saja, tetapi kalau investasi menabung dengan tempo dan tujuan tertentu. Investasi tidak hanya berupa uang, melainkan bisa berbentuk emas. Investasi emas ini juga tidak kalah trend nya dengan investasi sejumlah uang. Hal terbukti bahwa banyak suatu badan perusahaan atau pebankan yang membuka dan menyediakan layanan investasi bebentuk emas, seperti misalnya: pegadaian.
 

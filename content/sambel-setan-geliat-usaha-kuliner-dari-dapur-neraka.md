@@ -1,6 +1,6 @@
 ---
 title: 'Sambel Setan, Geliat Usaha Kuliner Dari Dapur Neraka'
-date: Thu, 16 Feb 2017 16:26:11+07:00
+date: 2017-02-16T16:26:11+07:00
 draft: false
 tag: [analisa bisnis, bisnis kuliner, bisnis makanan, bisnis masakan, Info, review bisnis, sambel setan, ulasan bisnis, usaha kuliner, usaha makanan, usaha pecel ayam, usaha sambel setan]
 ---

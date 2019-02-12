@@ -1,6 +1,6 @@
 ---
 title: 'Peluang Usaha Warnet Masih Ada Harapan'
-date: Sat, 07 May 2016 09:25:36+07:00
+date: 2016-05-07T09:25:36+07:00
 draft: false
 tag: [analisa bisnis, Info, peluang usaha warnet, tips membuka warnet, tips usaha warnet, ulasan bisnis, usaha warnet]
 ---

@@ -1,9 +1,11 @@
 ---
 title: 'Kelemahan/Kekurangan Pada Model Bisnis Franchise'
-date: Mon, 17 Jul 2017 13:01:06+07:00
+date: 2017-07-14T13:01:06+07:00
 draft: false
 tag: [bisnis franchise, Tips, tips bisnis franchise]
 ---
+## Kelemahan/Kekurangan Pada Model Bisnis Franchise
+---- 
 
 **Bisnis7.com - Kelemahan dalam bisnis franchise**, Bisnis franchise merupakan jaringan usaha kerja sama mitra yang trend dikalangan para pelaku bisnis. Semua para pelaku bisnis yang memiliki modal yang cukup besar akan lebih memilih bisnis franchise ketimbang memulai usaha bisnis dari nol. Sulitnya membangun usaha dari nol memang sedikit mempengaruhi perkembangan bisnis Anda apalagi diharuskan bersaing dengan merk-merk dagang yang sudah meemiliki nama besar. Tentunya sudah semakin ketat persaingan bisnis ini. Maka dari itulah yang mungkin menjadikan alasan kuat para pelaku bisnis franchise, adalah mereka hanya perlu melakukan sistem perdagangan yang sudah ditetapkan franchisor. Selain itu produk atau brand yang dijalankan adalah brand atau merk dagang yang sudah ternama, mereka tidak perlu lagi pusing mengenai prospek kedepannya. Namun dibalik semua kelebihan bisnis franchise, tahukah Anda bahwa terdapat beberapa kelemahan didalamnya. Dibawah ini berikut kami jelaskan kepada Anda.
 

@@ -1,9 +1,11 @@
 ---
 title: 'Panduan Belanja Online Agar Anda Tidak Kena Tipu'
-date: Thu, 06 Sep 2018 09:04:12+07:00
+date: 2018-09-06T09:04:12+07:00
 draft: false
 tag: [Tips, tips belanja online, tips menghindari penipuan online]
 ---
+## Panduan Belanja Online Agar Anda Tidak Kena Tipu
+-----
 
 **Bisnis7.com - Ketahui 5 Cara melakukan belanja online yang baik dan benar** | Saat ini ecommerce sudah berkembang dengan sangat pesat sehingga banyak pihak baik penjual dan pembeli diuntungkan seiring dengan pertumbuhan bisnis jual beli online. Anda kemungkinan juga salah satu orang yang senang dengan yang namanya _berbelanja online._ Tanpa perlu ribet dan harus keluar rumah, Anda sudah bisa bertransaksi membeli produk (barang) secara online. Cukup memegang smartphone andalan, lalu sedikit sentuhan Anda pun sudah dapat melakukan aktivitas-aktivitas layaknya berbelanja pada umumnya. Tapi apakah Anda semua tahu bahwa dalam membeli produk atau barang secara online, terdapat beberapa hal penting yang perlu diperhatikan. Hal penting ini sangat memiliki dampak pengaruh yang bisa membuat Anda mengalami _kerugian dalam berbelanja online_. Apa saja sebenarnya yang harus diperhatikan dalam melakukan aktivitas berbelanja online, dan bagaimana Agar tidak mengalami kerugian seperti misalnya: _"Sudah bayar tapi barang belum dikirim."_ Maka dari itu agar Anda tidak mengalami kerugian yang tidak diinginkan, Anda harus tahu tentang tata cara melakukan **belanja online dengan aman.**
 

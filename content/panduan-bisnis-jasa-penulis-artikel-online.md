@@ -1,9 +1,11 @@
 ---
 title: 'Panduan Bisnis Jasa Penulis Artikel Online'
-date: Thu, 07 Sep 2017 14:52:58+07:00
+date: 2017-09-07T14:52:58+07:00
 draft: false
 tag: [bisnis jasa, bisnis online, jasa pembuata blog, jasa pembuatan website, jasa penulis artikel, panduan bisnis jasa, Tips]
 ---
+## Panduan Bisnis Jasa Penulis Artikel Online
+-----
 
 **Bisnis7.com - Panduan bisnis jasa penulis artikel** | Setiap keahlian dalam bidang profesi apapun,  pasti akan melahirkan manfaat bagi orang banyak. Seperti halnya jika Anda memiliki keahlian dalam bidang **menulis**, sangat mubazir pastinya kalau Anda tidak memanfaatkanya sebagai _peluang usaha yang menguntungkan_. ![panduan bisnis jasa penulis artikel untuk blog](https://www.bisnis7.com/wp-content/uploads/2017/08/panduan-bisnis-jasa-penulisan-artikel-untuk-blog.jpg) Sobat bisnis7 dimanapun Anda berada, masih ingat bukan tentang pembahasan lalu yang pernah kita bahas sebelumnya? Pada pembahasan sebelumnya kita sempat membahas tentang [**5 bisnis populer di kalangan remaja**](https://www.bisnis7.com/5-bisnis-populer-di-kalangan-remaja/). Di dalam pembahasan tersebut diantaranya ada salah satu peluang usaha yang bisa diciptakan melalui  menulis, yaitu jasa penulisan artikel. Jasa penulisan artikel adalah jasa yang dimana (Anda) memberikan layanan jasa berupa tulisan dalam bentuk teks ataupun gambar. Jasa penulisan artikel pada umumnya terdiri dari kategori dan juga jenis, yang diantaranya: **\- Kategori artikel** Di dalam jasa penulisan artikel terdapat kategori yang diantaranya seperti: artikel bisnis, artikel berita, artikel resep, artikel kuliner, artikel bola (olahraga), artikel teknologi, artikel traveling, artikel pendidikan, hingga artikel yang membahas tentang tutorial. Dari ragam kategori artikel terdapat dua bahasa yang paling banyak diminati yaitu bahasa indonesia dan bahasa inggris. **\- Jenis artikel** Selain kategori, para penulis artikel juga menetapkan jenis-jenis memiliki 3 jenis yang diantaranya:
 

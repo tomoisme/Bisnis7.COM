@@ -1,9 +1,12 @@
 ---
 title: 'Cara Mengajukan Pinjaman Ke Bank'
-date: Tue, 04 Sep 2018 06:52:03+07:00
+date: 2018-09-04T06:52:03+07:00
 draft: false
 tag: [cara kredit bank, cara mengajukan pinjaman, cara mengajukan pinjaman dana, Info, kredit bank, pinjaman dana, pinjaman dari bank]
 ---
+
+## Cara Mengajukan Pinjaman Ke Bank
+----
 
 **Bisnis7.com** \- **Cara melakukan Pinjaman Dana Di Bank** sering menjadi bahan pertanyaan bagi para pelaku usaha yang kekurangan modal, atau bagi seorang yang baru saja ingin memulai suatu usaha. Dalam memulai suatu usaha atau mengembangkan bisnis, memang  tidak bisa dipungkiri bahwa yang namanya modal selalu menjadi panutan utama. Dalam berbisnis memang peribahasa _"Jika ada kemauan pasti ada jalan untuk menuju kesuksesan",_ tapi pada faktanya dalam memulai usaha,  besar atau kecil nya dana yang dikeluarkan tetap dinamakan sebagai modal. Dan sangat tidak mungkin bila kita memulai bisnis atau usaha tanpa menggunakan modal sepeserpun. Pada umumnya sedikit kasus soal **pinjam-meminjam** sering kali diantara para pedagang mengambil jalur alternatif untuk mendapatkan modal, yaitu dengan meminjam uang kepada koperasi, bank keliling, bahkan rentenir sekalipun. Padahal ada hal merugikan yang harus Anda ketahui jika meminjam uang atau dana melalui  bank keliling ataupun rentenir. **Kerugian Meminjam uang kepada bank keliling** Memang...dalam meminjam uang melalui bank keliling prosesnya lebih cepat dan mudah, tapi ada dampak kerugian yang bisa Anda dapatkan. Kerugiannya adalah Anda harus menyicil (membayar) pinjaman beserta bunganya setiap hari selama 30 hari. Besar bunga dalam meminjam uang di bank keliling adalah sebesar 20%. belum lagi ditambah potongan adminstrasi awal. Jangankan bisa mengembangkan usaha, yang ada uang dana yg diperoleh meminjam hanya dipakai untuk keperluan seperlunya saja dan sisahnya Anda tinggal pusing memikirkan cicilan hariannya. **Kerugian Meminjam uang kepada rentenir** Jangan sesekali Anda meminjam uang atau dana ke rentenir, karena Anda akan dilimpahkan bunga yg besar. Tidak hanya besar, jika Anda telat membayar angsuran (cicilan) maka Anda akan mendapatkan bunga yang berlipat-lipat.
 

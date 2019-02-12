@@ -1,9 +1,11 @@
 ---
 title: 'Hal-Hal Yang Diperlukan Untuk Menjadi Blogger Handal'
-date: Wed, 23 Mar 2016 01:20:42+07:00
+date: 2016-03-23T01:20:42+07:00
 draft: false
 tag: [cara blogging, Tips, tips bikin blog, tips bisnis online, tips blogging, tutorial blog, tutorial blogging]
 ---
+## Hal-Hal Yang Diperlukan Untuk Menjadi Blogger Handal
+----
 
 Banyak orang yang memulai perjalanan karir di dunia blogging dengan membuat akun di layanan blog gratis seperti blogger.com, wordpress.com, blogdetik, dll. Seiring dengan berjalannya waktu, banyak dari para blogger baru ini menyadari bahwa ada banyak hal yang dibutuhkan untuk membuat mereka menjadi seorang blogger yang handal. Ya, menjadi seorang blogger memang tidak hanya memerlukan sebuah blog siap pakai, menjadi seorang blogger handal juga membutuhkan beberapa skill dan pengetahuan di bidang tertentu. Hal-hal apa saja yang dibutuhkan untuk meningkatkan kegiatan blogging anda ke tingkat profesional? Simak sampai habis artikel ini.
 

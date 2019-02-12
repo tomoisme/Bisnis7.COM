@@ -1,9 +1,11 @@
 ---
 title: 'Membuka Bisnis Kue Dengan Modal Terbatas Namun Menguntungkan'
-date: Sun, 16 Jul 2017 16:22:38+07:00
+date: 2017-07-16T16:22:38+07:00
 draft: false
 tag: [bisnis kuliner, bisnis makanan, Info, usaha kue, usaha kue basah, usaha kue kering, usaha makanan]
 ---
+## Membuka Bisnis Kue Dengan Modal Terbatas Namun Menguntungkan
+----- 
 
 **Bisnis7.com - Membuka bisnis kue dengan modal terbatas namun menguntungkan**, Berwirausaha dalam bidang kuliner memang terbilang menyenangkan. Apalagi bagi mereka yang hobby dalam membuat bahan-bahan olahan makanan dan juga minuman. Kegiatan bisnis yang berkecimpung dalam dunia kuliner ini memang paling banyak diminati oleh konsumen luas baik itu kalangan bawah, menengah, hingga atas. Salah satu bisnis makanan yang paling sering kita jumpai diplosok-plosok pinggir jalan adalah pedagang kue, baik kue kering ataupun basah. \[caption id="attachment_972" align="aligncenter" width="480"\]![Membuka bisnis kue dengan modal terbatas namun menguntungkan](https://www.bisnis7.com/wp-content/uploads/2017/07/pedagang-kue-di-pasar-mester.jpg) pedagang kue dipasar mester jatinegara\[/caption\]   Kue yang beredar dipasaran disajikan dalam bentuk kemasan atau ada juga yang bisa langsung disantap. Maraknya aktifitas pedagang kue dipasaran, membuat peluang baru bagi mereka para penjual bahan-bahan kue. Dari perkembangan pasar juga tingkat kebutuhan dalam bahan pokok juga akan terus meningkat. **Omset pedagang kue mencapai angka fantastik** Dikutip dari metrotvnews.com, bahwa omset pedagang kue kering yang berada di pusat pasar jatinegara  mencapai ratuasan juta /harinya.  Hal ini tentunya sontak membuat para pelaku bisnis tergiur dengan perkembangan bisnis kue yang bisa menghasilkan omset fantastik tersebut.
 

@@ -1,9 +1,11 @@
 ---
 title: 'Faktor Penting Yang Menunjang Kesuksesan Usaha Kuliner'
-date: Thu, 14 Apr 2016 16:31:43+07:00
+date: 2016-04-14T16:31:43+07:00
 draft: false
 tag: [inspirasi bisnis, Tips, tips bisnis kuliner, tips usaha kuliner]
 ---
+## Faktor Penting Yang Menunjang Kesuksesan Usaha Kuliner
+----
 
 Banyak orang bilang bahwa jika seseorang membuka usaha kuliner pasti dapat bertahan. Anggapan seperti ini tersebar luas di masyarakat karena banyak orang berpikir bahwa bisnis makanan bersifat memenuhi kebutuhan primer setiap orang sehingga pasti akan ada yang membeli. Padahal anggapan tersebut tidak selamanya benar, pasalnya banyak juga usaha kuliner yang tidak dapat bertahan serta gulung tikar akibat tidak mendapatkan cukup pelanggan. Usaha makanan walaupun terlihat sederhana ternyata juga memerlukan perhitungan yang matang serta perhatian pada beberapa aspek penting agar dapat bertahan dari persaingan bisnis. Simak beberapa faktor penting yang dapat menunjang kesuksesan sebuah usaha kuliner.
 

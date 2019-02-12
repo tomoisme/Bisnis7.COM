@@ -1,9 +1,11 @@
 ---
 title: 'Kisah Tragis Pendiri Brand Lingerie Terkenal Victoria''s Secret'
-date: Sat, 18 Feb 2017 09:23:07+07:00
+date: 2017-02-18T09:23:07+07:00
 draft: false
 tag: [bisnis bra, bisnis celana dalam, bisnis fashion, bisnis pakaian dalam, Inspirasi, kisah sukses]
 ---
+## Kisah Tragis Pendiri Brand Lingerie Terkenal Victoria''s Secret
+----
 
 Nama Victoria's Secret sebagai brand produk fashion pakaian dalam dan lingerie wanita tentu saja sudah sangat terkenal di kalangan fashionista saat ini. Brand ini seakan sudah menjadi jaminan mutu kelas atas dan bergengsi untuk produk pakaian dalam. Pangsa pasar Victoria's Secret saat ini juga sudah berada di tingkat global sehingga membawa brand ini pada kesuksesan besar dan menjadi salah satu merk dengan produk yang paling laris di pasaran. Hal ini tentu saja mendatangkan keuntungan yang tidak sedikit untuk pendiri bisnis lingerie ini. Acara fashion show tahunan Victoria's Secret faktanya penuh nuansa glamor dan kemewahan yang menunjukkan tingkat kesuksesan yang luar biasa. Namun diluar hingar bingar bisnis yang gempita ini, ternyata pendiri Victoria's Secret, Raymond Roy, memiliki kisah hidup yang kelam dan jauh dari perkiraan banyak orang.
 
