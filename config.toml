@@ -1,6 +1,7 @@
-baseURL = "https://www.depoharga.com/"
+baseURL = "https://www.bisnis7.com/"
 languageCode = "en-us"
-title = "DepoHarga.COM - Portal Informasi Harga Komoditas"
+title = "Info Bisnis Dan Peluang Usaha 7 Hari Seminggu"
+description = "Mengulas topik bisnis mulai dari bisnis online, peluang usaha, usaha mikro kecil menengah, bisnis modal kecil, franchise, mlm hingga investasi."
 disableKinds = "RSS"
 paginate = 10
 

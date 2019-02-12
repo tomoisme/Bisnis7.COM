@@ -5,6 +5,8 @@
         <small class="float-right">{{.Date.Format "02 Jan 2006"}}</small>
         {{ .Content }}
         <hr>
+        {{ partial "fb-comments" . }}
+        <hr>
         {{ $related := .Site.RegularPages.Related . | first 10 }}
         {{ with $related }}
         <h3>Artikel Yang Berkaitan</h3>
