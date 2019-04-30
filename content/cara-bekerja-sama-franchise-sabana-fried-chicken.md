@@ -4,6 +4,8 @@ date: 2018-09-02T12:07:38+07:00
 draft: false
 tag: [Info]
 ---
+{{<adsense-responsive>}}
+
 ## Cara Bekerja Sama Franchise Sabana Fried Chicken
 ----
 
@@ -17,12 +19,16 @@ Usaha bisnis franchise yang kami akan berikan ini adalah tentang bagaimana cara 
 
 Bagi Anda yang hobby atau senang menyantap hidangan ayam tepung yang digoreng, pastinya sudah tidak asing lagi dengan nama merk dagang makanan (produk) sabana fried chicken. Namun bagi Anda yang masih awam dengan nama sabana fried chicken berikut dibawah in penjelasannya.
 
+{{<adsense-responsive>}}
+
 ### Sabana Fried Chicken
 --------------------
 
 Sebuah merk dagang makanan "Sabana fried chicken" adalah sebuah usaha yang bergerak di bidang ayam goreng tepung dan dijual di gerai-gerai serta dikelola dengan cara yang modern dalam bentuk kerjasama (kemitraan). 
 
 Sabana fried chicken bergerak dalam bidang makanan yang membuat sajian ayam goreng tepung dengan resep bumbu terigu kering yang khas. 
+
+{{<adsense-responsive>}}
 
 Di dalam proses pengolahan suatu bahan baku sabana fried chicken telah bekerja sama dengan perusahaan mitra, lalu disusul dengan melakukan kerjasama dengan sebuah tempat pemotongan ayam dan juga peternak ayam terbaik, hal ini dilakukan agar produk-produk sabana memiliki hasil rasa yang lezat, gurih, dan bergizi. 
 

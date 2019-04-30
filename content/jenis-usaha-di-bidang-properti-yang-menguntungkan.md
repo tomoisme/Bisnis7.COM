@@ -4,12 +4,16 @@ date: 2017-07-24T07:51:56+07:00
 draft: false
 tag: [bisnis properti, Info, investasi kontrakan, investasi properti, usaha kontrakan, usaha kos-kosan, usaha properti]
 ---
+{{<adsense-responsive>}}
+
 ## Jenis Usaha Di Bidang Properti Yang Menguntungkan
 ----
 
 **Bisnis7.com - Jenis usaha properti yang menguntungkan.** Memang semua jenis usaha properti itu pada umumnya menguntungkan, namun dari setiap jenisnya memiliki peluang yang berbeda-beda. Maka dari itu ketika Anda ingin beralih menjalankan bisnis properti, perhatikanlah terlebih dulu mengenai jenis-jenis properti yang ada didalamnya. 
 
 ![jenis usaha properti yang menguntungkan](/img/usaha-di-bidang-properti-yang-menguntungkan.jpg) 
+
+{{<adsense-responsive>}}
 
 Mempelajari jenis-jenis properti adalah bertujuan untuk Anda agar lebih mengenal lagi dunia bisnis properti. Selain itu jenis-jenis usaha properti itu memiliki modal yang berbeda-beda, tergantung dari tingkat properti itu tersebut. Daripada penasaran berikut dibawah ini jenis-jenisnya.
 
@@ -18,6 +22,8 @@ Mempelajari jenis-jenis properti adalah bertujuan untuk Anda agar lebih mengenal
 **1. Properti tempat hunian**
 
 Properti tempat hunian adalah jenis properti rumahan yang biasa dijadikan sebagai tempat tinggal. Jenis properti ini paling banyak digeluti oleh para pelaku bisnis, karena mengingat kebutuhan manusia akan tempat tinggal semakin meningkat pada setiap tahunnya. Selain itu juga bisa dijual bagi para pembeli yang ingin melakukan investasi properti dengan melihat pada capital gainnya terlebih dahulu. Contoh dari properti hunian diantaranya bisa berupa ; perumahan, rumah susun, apartemen, bangunan asrama mahasiswa/pelajar, kondominium dan villa.
+
+{{<adsense-responsive>}}
 
 **2. Properti tempat usaha (komersial)**
 
