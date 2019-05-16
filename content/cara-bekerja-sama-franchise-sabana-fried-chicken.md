@@ -9,7 +9,7 @@ tag: [Info]
 ## Cara Bekerja Sama Franchise Sabana Fried Chicken
 ----
 
-![Gerai Sabana Fried Chicken](/img/gerai-sabana-fried-chicken.jpg)
+<img class="img-fluid" src="/img/gerai-sabana-fried-chicken.jpg" alt="Gerai Sabana Fried Chicken">
 
 **Bisnis7.com - Cara bekerja sama franchise sabana fried chicken**, Bicara tentang peluang usaha memang tidak akan ada habisnya. Apalagi jika kita bicara suatu bidang usaha yang bergerak dalam kategori kuliner, pastinya sudah sangat menarik dengan variasi usaha yang sangat luas mulai dari skala kecil hingga resto skala besar. 
 
