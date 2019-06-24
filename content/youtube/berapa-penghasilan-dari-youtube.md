@@ -3,7 +3,7 @@ title: "Berapa Penghasilan Dari YouTube?"
 date: 2019-05-10T21:21:39+07:00
 draft: false
 layout: "single"
-descripton: "Ingin tahu berapa penghasilan yang bisa didapatkan oleh para YouTuber? Simak ulasan Bisnis7 mengenai penghasilan dari YouTube."
+description: "Ingin tahu berapa penghasilan yang bisa didapatkan oleh para YouTuber? Simak ulasan Bisnis7 mengenai penghasilan dari YouTube."
 images: [
 
 ]

@@ -3,7 +3,7 @@ title: "Cara Meningkatkan Views Video Youtube"
 date: 2019-06-14T22:11:50+07:00
 draft: false
 layout: "single"
-descripton: "Mau dapat banyak penonton setia untuk setiap video youtube yang kamu updload? Silahkan ikuti panduan sederhana ini langkah demi langkah. Dijelaskan dengan detail dan sederhana agar dapat dimengerti oleh pemula sekalipun"
+description: "Mau dapat banyak penonton setia untuk setiap video youtube yang kamu updload? Silahkan ikuti panduan sederhana ini langkah demi langkah. Dijelaskan dengan detail dan sederhana agar dapat dimengerti oleh pemula sekalipun"
 images: [
 ]
 tag: [    

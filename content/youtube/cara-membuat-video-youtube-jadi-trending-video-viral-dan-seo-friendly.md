@@ -3,7 +3,7 @@ title: "Cara Membuat Video Youtube Jadi Trending Video Dan Viral"
 date: 2019-06-16T07:26:47+07:00
 draft: false
 layout: "single"
-descripton: "Mau supaya video kamu jadi trending dan viral? Ikuti tutorial youtube disini dan panduan langkah demi langkah agar viewer video kamu meningkat drastis."
+description: "Mau supaya video kamu jadi trending dan viral? Ikuti tutorial youtube disini dan panduan langkah demi langkah agar viewer video kamu meningkat drastis."
 images: [
 
 ]

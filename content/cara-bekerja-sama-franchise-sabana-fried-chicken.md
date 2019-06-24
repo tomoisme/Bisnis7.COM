@@ -1,13 +1,32 @@
 ---
-title: 'Cara Bekerja Sama Franchise Sabana Fried Chicken'
+title: "Cara Bekerja Sama Franchise Sabana Fried Chicken"
 date: 2018-09-02T12:07:38+07:00
 draft: false
-tag: [Info]
+layout: "single"
+description: "Ingin ikut berjualan fried chicken Sabana? Simak infonya disini, mari bergabung dengan ribuan pengusaha franchise makanan disini."
+images: [
+
+]
+category: [
+    franchise,
+    waralaba,
+    peluang usaha
+]
+tag: [
+    franchise makanan,
+    waralaba makanan,
+    franchise ayam goreng,
+    waralaba ayam goreng,
+    usaha franchise,
+    usaha waralaba,
+    sabana fried chicken    
+]
 ---
-{{<adsense-responsive>}}
 
 ## Cara Bekerja Sama Franchise Sabana Fried Chicken
 ----
+
+{{<adsense-responsive>}}
 
 <img class="img-fluid" src="/img/gerai-sabana-fried-chicken.jpg" alt="Gerai Sabana Fried Chicken">
 
