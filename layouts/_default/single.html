@@ -2,7 +2,14 @@
 
 <div class="container">
     <div class="col-md-12 col-sm-12">
-        <small class="float-right">{{.Date.Format "02 Jan 2006"}}</small>
+        <p>
+            {{ $siteurl := .Site.BaseURL }}
+            <small>kategori:</small> 
+            {{ range .Params.category }}
+            <small><a href="{{ $siteurl }}category/{{ . | urlize }}">{{ . }}</a></small>, 
+            {{ end }}                
+            <small> | tgl: {{.Date.Format "02 Jan 2006"}}</small>
+        </p>        
         <div style="clear:both; height: 10px;"></div>
         {{ .Content }}
         <hr>
