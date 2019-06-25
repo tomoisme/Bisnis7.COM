@@ -35,6 +35,8 @@ Salah satu merk thai tea yang dikenal oleh masyarakat adalah Nyot Nyot Thai Tea.
 
 Telah berdiri sejak tahun 2016 dan telah dipercaya oleh ratusan wirausahawan dari berbagai daerah di segala penjuru Indonesia. Nyot Nyot Thai Tea bersaing dengan banyak merk-merk gerai minuman Thailand dengan berbekal konsistensi dalam hal menjaga stabilitas kualitas produk.
 
+{{<adsense-responsive>}}
+
 ### Kelebihan Bergabung Dalam Peluang Usaha Nyot Nyot Thai Tea
 
 **Modal Relatif Terjangkau**
@@ -53,29 +55,59 @@ Nyot Nyot Thai Tea dikelola dengan management yang telah berpengalaman di bidang
 
 Kami memiliki agen pengiriman khusus untuk mengirimkan keperluan usaha Anda. Dan paket yang dipesan hari ini akan dikirim hari ini juga.
 
+{{<adsense-responsive>}}
+
+#### Menu Nyot Nyot Thai Tea
+
+<img class="img-fluid" src="../img/menu-nyot-nyot-thai-tea-1.png" alt="varian Nyot Nyot Thai Tea">
+<img class="img-fluid" src="../img/menu-nyot-nyot-thai-tea-2.png" alt="menu Nyot Nyot Thai Tea">
+
+<img class="img-fluid" src="../img/kisah-sukses-nyot-nyot-thai-tea.png" alt="mitra sukses Nyot Nyot Thai Tea">
+
 ### Perhitungan ROI
 
 **Semua keuntungan penjualan 100% milik mitra/ no royalty fee**
 
-Investasi awal : Rp 13.000.000,-
+Investasi awal			: Rp	 8.500.000
 
-Penjualan 100 cup/ hari @ Rp 11.000 : Rp 33.000.000,-
+**Penjualan 90 cup/hari**	
+@Rp 10.000 selama 30 hari 	
+(90 x Rp 10.000 x 30)		: Rp 	27.000.000
 
-(100x11.000x30hari)
+**Pembelian bahan baku**		
+(90 x Rp 5.000 x 30)		: Rp 	15.000.000
 
-Pembelian bahan baku : Rp 12.000.000,-
+**Biaya operasional**		
 
-(100x5.000x30hari)
+Gaji karyawan (1 orang)		: Rp 	 1.000.000
 
-Biaya operasional :
+Operasional			: Rp 	   500.000
 
-Gaji karyawan (2orang) : Rp 2.000.000,-
-Sewa Lokasi : Rp 3.000.000,-
-TOTAL biaya operasional : Rp 5.000.000,-
+Sewa lokasi			: Rp 	 1.000.000
 
-LABA BERSIH RP 16.000.000,-
+Total biaya operasional		: Rp 	 2.500.000
 
-Estimasi B.E.P : 1-2 BULAN
+**Laba bersih:** Rp 12.500.000,-
+
+Estimasi BEP dalam 1-2 bulan.
+
+### Bagaimana Proses Mendaftar Peluang Usaha Nyot Nyot Thai Tea
+
+**Tahap I**
+
+Calon mitra menghubungi marketing Nyot Nyot Thai Tea.
+
+**Tahap II**
+
+Calon mitra menyiapkan lokasi dan melakukan transfer sesuai tagihan.
+
+**Tahap III**
+
+Paket usaha Nyot Nyot Thai Tea dikirim ke lokasi calon mitra.
+
+**Tahap IV**
+
+Usaha siap untuk dijalankan.
 
 ### Tanya Jawab
 
@@ -122,3 +154,11 @@ Mitra boleh berpindah lokasi asalkan meminta ijin ke kantor pusat dan memberikan
 - Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 
 Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 11.000 s/d Rp 15.000 disesuaikan dengan daya beli disekitar outlet.
+
+### Hubungi Tim Marketing Nyot Nyot Thai Tea
+
+**Jawa Barat & Jawa Tengah: [0821-3337-5341](https://api.whatsapp.com/send?phone=6282133375341)**
+
+**Jawa Timur & Luar Jawa: [0822-2330-1814](https://api.whatsapp.com/send?phone=6282133375341)**
+
+Website: thaiteanyotnyot.com
