@@ -2,7 +2,7 @@
 title: 'Kebijakan Privasi'
 date: 2016-03-12T11:33:35+07:00
 draft: false
-tag: []
+layout: "page"
 ---
 
 ## Kebijakan Privasi Bisnis7

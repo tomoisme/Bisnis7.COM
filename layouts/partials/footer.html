@@ -1,20 +1,43 @@
-    
-    <br><hr><br>
+<div class="gap-30"></div>
 
-    <footer class="container">
-        <div class="col-md-12 col-sm-12">
-            <p>&copy; Bisnis7.COM - Info Bisnis Dan Investasi 7 Hari Seminggu.</p>
-            <p>
-                <a href="{{ .Site.BaseURL }}sitemap.xml">Sitemap</a> - 
-                <a href="{{ .Site.BaseURL }}kebijakan-privasi">Kebijakan Privasi</a>
-            </p>
+<div class="ts-copyright">
+    <div class="container">
+        <div class="row align-items-center justify-content-between">
+            <div class="col-12 text-center">
+                <div class="copyright-content text-light">
+                    <p>© 2020 Bisnis7.COM. All rights reserved.</p>
+                    <p><a href="{{ .Site.BaseURL }}/sitemap.xml">Sitemap</a> &bull; <a href="{{ .Site.BaseURL }}/kebijakan-privasi/">Kebijakan Privasi</a></p>
+                </div>
+            </div>
         </div>
-    </footer>    
-    
-    <script src="{{ .Site.BaseURL }}js/jquery-3.3.1.slim.min.js"></script>
-    <script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
+    </div>
+</div>
+
+<div class="top-up-btn">
+    <div class="backto" style="display: block;"> 
+        <a href="#" class="icon icon-arrow-up" aria-hidden="true"></a>
+    </div>
+</div>
+
+<!-- Javascript Files
+	================================================== -->
+
+	<!-- initialize jQuery Library -->
+	<script src="{{ .Site.BaseURL }}/js/jquery.js"></script>
+	<!-- Popper Jquery -->
+	<script src="{{ .Site.BaseURL }}/js/popper.min.js"></script>
+	<!-- Bootstrap jQuery -->
+	<script src="{{ .Site.BaseURL }}/js/bootstrap.min.js"></script>
+	<!-- magnific-popup -->
+	<script src="{{ .Site.BaseURL }}/js/jquery.magnific-popup.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="{{ .Site.BaseURL }}/js/owl.carousel.min.js"></script>
+	<!-- Color box -->
+	<script src="{{ .Site.BaseURL }}/js/jquery.colorbox.js"></script>
+	<!-- Template custom -->
+    <script src="{{ .Site.BaseURL }}/js/custom.js"></script>    
 
     {{ partial "analytics" . }}
-</body>
 
+</body>
 </html>

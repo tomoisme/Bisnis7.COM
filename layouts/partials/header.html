@@ -1,43 +1,144 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
+
+	<!-- Basic Page Needs
+		================================================== -->
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="{{ .Description }}">
-	<meta property="fb:app_id" content="953761788043583" />
-	{{ template "_internal/opengraph.html" . }}
-	
 	<title>{{ .Title }}</title>
 
-	<!-- Bootstrap core CSS -->
-	<link href="{{ .Site.BaseURL }}css/bootstrap.min.css" rel="stylesheet">
+	<!-- Mobile Specific Metas
+		================================================== -->
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!--Favicon-->
+	<link rel="shortcut icon" href="{{ .Site.BaseURL }}/images/favicon.png" type="image/x-icon">
+	<link rel="icon" href="{{ .Site.BaseURL }}/images/favicon.png" type="image/x-icon">
+
+	<!-- CSS
+		================================================== -->
+
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/bootstrap.min.css">
+
+	<!-- IconFont -->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/iconfonts.css">
+	<!-- FontAwesome -->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/font-awesome.min.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/owl.theme.default.min.css">
+	<!-- magnific -->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/magnific-popup.css">
+
+
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/animate.css">
+
+	<!-- Template styles-->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css">
+	<!-- Responsive styles-->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/responsive.css">
+
+	<!-- Colorbox -->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/colorbox.css">
+
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+	<!--[if lt IE 9]>
+		  <script src="{{ .Site.BaseURL }}/js/html5shiv.js"></script>
+		  <script src="{{ .Site.BaseURL }}/js/respond.min.js"></script>
+		<![endif]-->
+
 </head>
 
 <body>
-	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+	<header id="header" class="header">
 		<div class="container">
-			<a class="navbar-brand" href="{{ .Site.BaseURL }}">Bisnis7</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNav"
-			 aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
+			<div class="row align-items-center justify-content-between">
+				<div class="col-md-3 col-sm-12">
+					<div class="logo">
+						<a href="{{ .Site.BaseURL }}">
+							<img src="{{ .Site.BaseURL }}/images/logos/bisnis7-logo.png" height="60" alt="">
+						</a>
+					</div>
+				</div><!-- logo col end -->
 
-			<div class="collapse navbar-collapse" id="mainNav">
-				<ul class="navbar-nav mr-auto">
-					<li class="nav-item">
-						<a class="nav-link" href="#">Info</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Tips</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Inspirasi</a>
-					</li>
-				</ul>
-			</div>
-		</div>
+				<div class="col-md-8 col-sm-12 header-right">
+					<div class="ad-banner float-right">
+						
+					</div>
+				</div><!-- header right end -->
+			</div><!-- Row end -->
+		</div><!-- Logo and banner area end -->
+	</header>
 
-	</nav>
+	<div class="main-nav clearfix is-ts-sticky">
+		<div class="container">
+			<div class="row justify-content-between">
+				<nav class="navbar navbar-expand-lg col-lg-8">
+					<div class="site-nav-inner float-left">
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+						<span class="fa fa-bars"></span>
+					</button>
+					   <!-- End of Navbar toggler -->
+					   <div id="navbarSupportedContent" class="collapse navbar-collapse navbar-responsive-collapse">
+							<ul class="nav navbar-nav">
+								<li class="nav-item dropdown active">
+									<a href="{{ .Site.BaseURL }}" class="menu-dropdown" data-toggle="dropdown">Home</a>
+								</li>
+								<!--
+								<li>
+									<a href="#">Technology</a>
+								</li>
 
-	<div style="height: 100px; clear: both"></div>
+								<li>
+									<a href="#">Travel</a>
+								</li>
+
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle menu-dropdown" data-toggle="dropdown">Features <i class="fa fa-angle-down"></i></a>
+									<ul class="dropdown-menu" role="menu">
+										<li class="dropdown-submenu">
+											<a href="#." class="menu-dropdown" data-toggle="dropdown">Category Layouts</a>
+											<ul class="dropdown-menu">
+												<li><a href="category.html">Category Style 1</a></li>
+												<li><a href="category-2.html">Category Style 2</a></li>
+											</ul>
+										</li>
+										<li class="dropdown-submenu">
+											<a href="#." class="menu-dropdown">Post Formates</a>
+											<ul class="dropdown-menu">
+												<li><a href="single.html">Single Post 1</a></li>
+												<li><a href="single-2.html">Single Post 2</a></li>
+											</ul>
+										</li>
+										<li class="dropdown-submenu">
+											<a href="#." class="menu-dropdown">Sidebar</a>
+											<ul class="dropdown-menu">
+												<li><a href="left-sidebar.html">Left Sidebar</a></li>
+												<li><a href="single.html">Right Sidebar</a></li>
+												<li><a href="no-sidebar.html">No Sidebar</a></li>
+											</ul>
+										</li>
+										<li class="dropdown-submenu">
+											<a href="#." class="menu-dropdown">Pages</a>
+											<ul class="dropdown-menu">
+												<li><a href="author.html">Author</a></li>
+												<li><a href="404.html">404</a></li>
+												<li><a href="contact.html">Contanct</a></li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+								-->
+							</ul><!--/ Nav ul end -->
+						</div><!--/ Collapse end -->
+
+					</div><!-- Site Navbar inner end -->
+				</nav><!--/ Navigation end -->
+			</div><!--/ Row end -->
+		</div><!--/ Container end -->
+	</div>
+
+	<div class="gap-30"></div>
